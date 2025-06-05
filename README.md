@@ -1485,7 +1485,7 @@
             } else {
                 questionTimeout = setTimeout(() => {
                     showResults();
-                }, 2000);
+                }, 7000);
             }
         }
 
